@@ -1,0 +1,3 @@
+﻿document.writeln("郑州百易科技有限公司 豫ICP备12014032号-15");
+document.writeln("</script>");
+document.writeln("<script type=\"text/javascript\">var cnzz_protocol = ((\"https:\" == document.location.protocol) ? \" https://\" : \" http://\");document.write(unescape(\"%3Cspan id=\'cnzz_stat_icon_1255071019\'%3E%3C/span%3E%3Cscript src=\'\" + cnzz_protocol + \"s11.cnzz.com/z_stat.php%3Fid%3D1255071019\' type=\'text/javascript\'%3E%3C/script%3E\"));</script>");
